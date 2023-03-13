@@ -1,0 +1,11 @@
+create user week12 identified by 1234;
+grant all privileges to week12;
+
+create user damgproject identified by 1234;
+grant all privileges to damgproject;
+
+create user FinalExam identified by 1234;
+grant all privileges to FinalExam;
+
+
+service name: xepdb1
